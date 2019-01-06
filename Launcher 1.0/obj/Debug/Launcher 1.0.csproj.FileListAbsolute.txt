@@ -1,0 +1,30 @@
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\bin\Debug\Launcher 1.0.exe.config
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\bin\Debug\Launcher 1.0.exe
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\bin\Debug\Launcher 1.0.pdb
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.csprojAssemblyReference.cache
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\MainWindow.g.cs
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\App.g.cs
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0_MarkupCompile.cache
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0_MarkupCompile.lref
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\MainWindow.baml
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.g.resources
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher_1._0.Properties.Resources.resources
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.csproj.GenerateResource.cache
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.csproj.CoreCompileInputs.cache
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.exe
+R:\public_html\2018\C#\TomasVoskovec\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.pdb
+C:\Users\home\Desktop\Launcher\Launcher 1.0\bin\Debug\Launcher 1.0.exe.config
+C:\Users\home\Desktop\Launcher\Launcher 1.0\bin\Debug\Launcher 1.0.exe
+C:\Users\home\Desktop\Launcher\Launcher 1.0\bin\Debug\Launcher 1.0.pdb
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.csprojAssemblyReference.cache
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\App.g.cs
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0_MarkupCompile.cache
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0_MarkupCompile.lref
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\MainWindow.baml
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.g.resources
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher_1._0.Properties.Resources.resources
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.exe
+C:\Users\home\Desktop\Launcher\Launcher 1.0\obj\Debug\Launcher 1.0.pdb
